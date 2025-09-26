@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marie Pizzini  
+# Hi, I’m Marie Pizzini  
 
 - MSc student in Computer Science at Télécom Paris  
 - Engineering background with a focus on **Computer Vision & Machine Learning**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔬 Research & Engineering Interests  
+## Research & Engineering Interests  
 - Computer Vision: image segmentation, recognition, computational photography  
 - Machine Learning: GANs, diffusion models, Bayesian methods, optimization  
 - Programing : Python, C++/OpenGL, React, TypeScript
