@@ -2,7 +2,7 @@
 
 - MSc student in Computer Science at Télécom Paris  
 - Engineering background with a focus on **Computer Vision & Machine Learning**  
-- Open to international internship opportunities in research & engineering roles in **Computer Vision, Machine Learning, and Image Processing** specializing in Medical Imaging or Creative Image Generation
+- Open to international internship opportunities in research & engineering roles in **Computer Vision, Machine Learning, and Image Processing** specializing in Medical Imaging and Creative Image Generation
 
 ---
 
